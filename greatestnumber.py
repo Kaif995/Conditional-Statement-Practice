@@ -8,3 +8,4 @@ elif(b>c):
     print("2nd Number is greater", b)
 else:
     print("3rd Number is greater", c) 
+    
